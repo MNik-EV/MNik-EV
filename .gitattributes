@@ -1,2 +1,5 @@
 * text=auto eol=lf
 *.svg text
+docs/vendor/** -whitespace
+docs/fonts/*.txt -whitespace
+assets/stack.svg -whitespace

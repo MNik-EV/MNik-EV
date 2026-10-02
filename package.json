@@ -1,0 +1,11 @@
+{
+  "name": "mnik-ev-profile",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "refresh": "node scripts/refresh-activity.mjs"
+  },
+  "devDependencies": {
+    "generate-snake-animation": "3.5.0"
+  }
+}
